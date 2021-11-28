@@ -1,0 +1,10 @@
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.AssemblyReference.cache
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Form1.resources
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.GenerateResource.cache
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.CoreCompileInputs.cache
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe.config
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.pdb
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.exe
+C:\Users\doado\Desktop\Prog\C#\Projects\CRUD\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.pdb
